@@ -1,0 +1,9 @@
+site_name: test
+site_url: https://vuurhaard.github.io/mkdocs1
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  
